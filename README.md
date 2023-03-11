@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @AlleKup
-- 👀 I’m interested in help me
-- 🌱 I’m currently learning help me
-- 💞️ I’m looking to collaborate on help me
-- 📫 How to reach me help me
+
